@@ -1,4 +1,4 @@
-package com.github.lujinfeifly.freejava.basic;
+package deer.milu.freejava.basic;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

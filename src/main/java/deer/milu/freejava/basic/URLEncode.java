@@ -1,4 +1,4 @@
-package com.github.lujinfeifly.freejava.basic;
+package deer.milu.freejava.basic;
 
 public class URLEncode {
 	private final static String[] hex = { "00", "01", "02", "03", "04", "05",  
